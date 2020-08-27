@@ -1,0 +1,46 @@
+
+    
+body{    
+    margin: 160px;
+    font-size: 20px;
+    line-height: 10px;
+    padding: 20px;
+    text-transform: uppercase;
+    color: midnightblue;
+    background-image: url(https://www.xtrafondos.com/wallpapers/naruto-uzumaki-3607.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom right;
+    
+    
+}
+
+
+.fecha{
+    background-color:  turquoise;
+    width: 400px;
+    text-align: center;
+    margin:20px;
+    padding: 20px;
+
+
+}
+p{
+    display: inline-block;
+    
+}
+
+.w3{
+
+    background-color: aquamarine;
+    width: 400px;
+    margin: 20px;
+    text-align: center;
+    height: 70px;
+    padding: 20px;
+    
+}
+
+.w-segundos {
+    display: inline-block;
+}
